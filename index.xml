@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Title of your blog</title>
-    <link>http://&lt;your_github_username&gt;.github.io/%3Cblog_repo_name%3E/</link>
+    <link>http://aheitzen.github.io/alexaheitzblog/</link>
     <description>Recent content on Title of your blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://%3cyour_github_username%3e.github.io/%3Cblog_repo_name%3E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://aheitzen.github.io/alexaheitzblog/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
