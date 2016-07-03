@@ -1,0 +1,19 @@
+
+languageCode = "en-us"
+
+
+
+baseurl = "http://<your_github_username>.github.io/<blog_repo_name>" 
+canonifyurls = true 
+pluralizelisttitles = false
+
+contentdir = "content"
+layoutsdir = "layouts"
+publishdir = "public"
+
+title = "Title of your blog"
+pygmentsuseclasses = true 
+
+[permalinks]
+fixed = ":title/"
+blog = ":slug/" 
