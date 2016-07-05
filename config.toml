@@ -2,7 +2,7 @@
 languageCode = "en-us"
 
 
-
+theme = "zafta"
 baseurl = "http://aheitzen.github.io/alexaheitzblog" 
 canonifyurls = true 
 pluralizelisttitles = false
@@ -12,7 +12,10 @@ layoutsdir = "layouts"
 publishdir = "public"
 
 title = "Title of your blog"
+MetaDataFormat = "toml"
 pygmentsuseclasses = true 
+
+
 
 [permalinks]
 fixed = ":title/"
